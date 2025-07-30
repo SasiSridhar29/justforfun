@@ -8,6 +8,10 @@ learnig to tweek my badges strike
 =======
 -> YOLO request to a collab!!
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+-> branch 
+>>>>>>> Stashed changes
+=======
 -> branch 
 >>>>>>> Stashed changes
 =======
